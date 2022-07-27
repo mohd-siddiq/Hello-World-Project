@@ -5,7 +5,7 @@ public class HellowWorld {
 		
 		System.err.println("Hello World");
 		System.out.println("How are you");
-		
+		System.out.println("What day is today?");
 	}
 	
 
